@@ -16,3 +16,4 @@ O objetivo é configurar uma instância de Banco de Dados SQL no Azure.
 ## Recursos Utilizados
 - [Microsoft Learn](https://learn.microsoft.com/pt-br/azure/)
 - "ADICIONANDO READMI INICIAL"NO CAMPO "COMMIT CHANGES"
+https://github.com/Alessandrastar/Azure-BancoDados-Projeto/blob/main/Captura%20de%20tela%202025-05-12%20221316.png
